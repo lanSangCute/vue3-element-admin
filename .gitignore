@@ -10,3 +10,8 @@ back-end/dist/
 front-end/dist/
 *.db
 
+node_modules/
+dist/
+*.db
+.DS_Store
+
